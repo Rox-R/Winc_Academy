@@ -3,9 +3,29 @@ body {
   }
 
   .black-border {
-        border: 5px solid black;
+        border: 1px solid blueviolet;
+        border-radius: 30px;
   }
 
   #green-background {
       background-color: rgb(231, 191, 198);
-  }
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .page2 {
+    background-color: rgb(234, 245, 244);
+    border: 1px solid blueviolet;
+border-radius: 20px;
+position: relative; 
+padding left: 10px; 
+padding right: 10px;
+border-style: hidden;   
+    }
+
+    .about {
+background-color: rgb(231, 191, 198);
+    }
+
+
+  

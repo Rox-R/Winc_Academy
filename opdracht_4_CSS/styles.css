@@ -1,0 +1,11 @@
+body { 
+        color: purple;
+  }
+
+  .black-border {
+        border: 5px solid black;
+  }
+
+  #green-background {
+      background-color: rgb(231, 191, 198);
+  }
